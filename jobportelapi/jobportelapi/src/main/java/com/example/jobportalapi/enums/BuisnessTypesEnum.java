@@ -1,0 +1,17 @@
+package com.example.jobportalapi.enums;
+
+public enum BuisnessTypesEnum {
+	
+	
+	PARTNERSHIP,
+	SOLE_PROPRIETORSHIP,
+	CORPORATION,
+	NONPROFIT,
+	BENEFIT_CORPORATION,
+	LIMITED_LIABILITY,
+	JOINT_VENTURE,
+	FRANCHISE,
+	MANUFACTURING_BUISNESS
+	
+
+}
